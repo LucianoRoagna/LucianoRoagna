@@ -15,7 +15,9 @@
 
 ## Interest and Contact
 
-•Im loocking for my first experience in the programming area.
+•Im looking for my first experience in the programming area, to collaborate on any open sourced project or paid oportunity.
+
+•I'm 
 
 •How to reach me:
 
