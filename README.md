@@ -1,16 +1,30 @@
-### Hi there 👋
+# console.log('Hi, my name is Luciano Roagna')
 
-<!--
-**LucianoRoagna/LucianoRoagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Im from Buenos Aires, Argentina and i make content through Web Development. I enjoy learning new lenguages and frameworks,now im especializing in react after having studied Javascript,HTML and CSS and then i want to study backend dev to be a FullStack Developer.
 
-Here are some ideas to get you started:
+## Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•React
+
+•HTML | CSS | JS
+
+•Boostrap
+
+•Visual Studio Code
+
+
+## Interest and Contact
+
+•Im loocking for my first experience in the programming area.
+
+•How to reach me:
+
+lucianoroagna@gmail.com
+
+• (+54)116 9395 261
+
+• [Linkedin](https://www.linkedin.com/in/luciano-roagna-a21110197/)
+
+
+
+
