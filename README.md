@@ -1,4 +1,4 @@
-# console.log('Hi, my name is Luciano Roagna')
+# Hi, my name is Luciano Roagna
 
 ### Im from Buenos Aires, Argentina and i make content through Web Development. I enjoy learning new lenguages and frameworks,now im especializing in react after having studied Javascript,HTML and CSS and then i want to study backend dev to be a FullStack Developer.
 
