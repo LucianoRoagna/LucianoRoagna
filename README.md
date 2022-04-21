@@ -4,9 +4,7 @@
 
 ## Skills and Experience
 
-•React
-
-•HTML | CSS | JS
+•Node.Js Backend student • React Frontend • MERN
 
 •Boostrap
 
